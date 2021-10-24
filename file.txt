@@ -1,0 +1,4 @@
+Ayush Tiwari,21.ayush.26tiwari@gamil.com,Male,Student,Yes
+aysuh,21.ayush@gmail.com,Male,Student,Yes
+a,1.wvgewj,Female,Teacher,Yes
+qq,2.hvjewme,Female,Teacher,Yes
